@@ -48,7 +48,7 @@ O projeto foi desenvolvido com foco em boas práticas de arquitetura, separaçã
 -   **Frontend**: Vue.js
 -   **Testes**: Jest
 -   **Gerenciamento de Estado**: Vuex
--   **Estilização**: SCSS
+-   **Estilização**: Vuetify (UI Framework)
 
 ## Requisitos
 
