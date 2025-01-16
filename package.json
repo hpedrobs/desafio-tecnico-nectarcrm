@@ -1,0 +1,26 @@
+{
+    "name": "desafio-tecnico-nectarcrm",
+    "version": "0.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "test": "vitest"
+    },
+    "dependencies": {
+        "@heroicons/vue": "^2.2.0",
+        "vue": "^3.5.13",
+        "vuetify": "^3.7.6",
+        "vuex": "^4.0.2"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^5.2.1",
+        "@vue/test-utils": "^2.4.6",
+        "jsdom": "^25.0.1",
+        "vite": "^6.0.5",
+        "vite-plugin-vue-devtools": "^7.6.8",
+        "vitest": "^2.1.8"
+    }
+}
