@@ -1,4 +1,4 @@
-# Desafio Técnico NectarCRM
+# Gerenciamento de Tarefas
 
 Este projeto consiste no desenvolvimento de um sistema de gerenciamento de tarefas, com foco em performance, manutenibilidade e escalabilidade, utilizando **Vue.js**. A aplicação permite criar, editar, excluir e gerenciar tarefas com dependências visuais, além de aplicar filtros para facilitar a organização.
 
